@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Vignesh Sekar 👋
+
+**Software Engineer | Open Source Advocate | Builder of Flow-State Products**
+
+---
+
+## 🚀 About Me
+
+- Passionate about building products that help people achieve their flow state.
+- Currently working on a note-taking app for pen and paper notes.
+- Advocate for open source—love contributing and using open source projects.
+- Always exploring new technologies & improving developer workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages & Frameworks:** .NET, Flutter, React, Go, Python, Node.js, SQL
+
+---
+
+## 🌟 Featured Projects
+
+- [**snipscribeDesktop**](https://github.com/vigneshsekar314/snipscribeDesktop)  
+  _A powerful and intuitive desktop app for organizing snippets and boosting productivity._
+
+- [**pokedexcli**](https://github.com/vigneshsekar314/pokedexcli)  
+  _A command-line Pokédex for Pokémon fans, combining fun with utility._
+
+---
+
+## 🧑‍💻 More Projects
+
+- [snipscribe_obsidian](https://github.com/vigneshsekar314/snipscribe_obsidian)
+- [mcpLearn](https://github.com/vigneshsekar314/mcpLearn)
+- [neutron](https://github.com/vigneshsekar314/neutron)
+
+---
+
+## 💡 Fun Facts
+
+- Open source enthusiast—always keen to collaborate!
+- Big fan of innovative tools, productivity hacks, and all things tech.
+- Love Neovim, using Neovim for about two years now :)
+
+---
 
 <!--
-**vigneshsekar314/vigneshsekar314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[LinkedIn](#) | [Twitter](#) | [Website](#)
 -->
+
+---
+
+Thanks for stopping by!  
+Feel free to check out my projects, star your favorites, or connect for collaboration.
