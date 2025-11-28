@@ -20,12 +20,11 @@
 ---
 
 ## 🌟 Featured Projects
-
-- [**snipscribeDesktop**](https://github.com/vigneshsekar314/snipscribeDesktop)  
-  _A powerful and intuitive desktop app for organizing snippets and boosting productivity._
-
+- [**gator**](https://github.com/vigneshsekar314/gator)
+  _A command-line blog aggregator for aggregating RSS feeds. Built as a part of guided project from boot.dev
 - [**pokedexcli**](https://github.com/vigneshsekar314/pokedexcli)  
   _A command-line Pokédex for Pokémon fans, combining fun with utility._
+
 
 ---
 
