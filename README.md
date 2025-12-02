@@ -24,15 +24,8 @@
   _A command-line blog aggregator for aggregating RSS feeds. Built as a part of guided project from boot.dev
 - [**pokedexcli**](https://github.com/vigneshsekar314/pokedexcli)  
   _A command-line Pokédex for Pokémon fans, combining fun with utility._
-
-
----
-
-## 🧑‍💻 More Projects
-
-- [snipscribe_obsidian](https://github.com/vigneshsekar314/snipscribe_obsidian)
-- [mcpLearn](https://github.com/vigneshsekar314/mcpLearn)
-- [neutron](https://github.com/vigneshsekar314/neutron)
+- [**StaticSiteGenerator**](https://github.com/vigneshsekar314/static-site-generator)
+  _A markdown to HTML site generator recursively for all HTML files inside a root directory._
 
 ---
 
