@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- Passionate about building products that help people achieve their flow state.
-- Currently working on a note-taking app for pen and paper notes.
-- Advocate for open source—love contributing and using open source projects.
+- Passionate about building products for knowledge management and brainstorming.
+- Currently working on a note-taking app for pen and paper notes and building a variable name generator.
+- Advocate for open source—love contributing to and using open source projects.
 - Always exploring new technologies & improving developer workflows.
 
 ---
